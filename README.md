@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @learningSarfi (Sarfaraj Sayyad)
+- 👀 I’m interested in Machine Learning / Deep Learning and Data Science
+- 🌱 I’m currently learning Machine / Deep Learning for Data Science
+- 💞️ I’m looking to collaborate on projects related to EDA, Machine and Deep learning
+- 📫 How to reach me on sarfisayyad@gmail.com
